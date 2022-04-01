@@ -6,7 +6,7 @@ Codepath prework project
 
 Submitted by: **Fernando Herrera**
 
-Time spent: **8** hours spent in total
+Time spent: **10** hours spent in total
 
 Link to project: (https://glitch.com/edit/#!/pond-zenith-paneer?path=README.md%3A1%3A0)
 
