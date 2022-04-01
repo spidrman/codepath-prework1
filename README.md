@@ -4,9 +4,9 @@ Codepath prework project
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **NAME**
+Submitted by: **Fernando Herrera**
 
-Time spent: **#** hours spent in total
+Time spent: **7** hours spent in total
 
 Link to project: (insert your link here, should start with https://glitch.com...)
 
@@ -51,9 +51,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 [YOUR ANSWER HERE]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
-
-A challenge I encountered was my start button not switching to the stop button. At first, I ignored it, but when the game was freezing up,
+[A challenge I encountered was my start button not switching to the stop button. At first, I ignored it, but when the game was freezing up,
 I checked the javascript file to make sure the mechanics were fine and then I checked the HTML file, but the solution could not be found.
 I was finally able to fix the bug by minutely going down the prework directions step by step to make sure I didn't miss anything. 
 Unexpectedly, the problem was not in my HTML or javascript files, but in the CSS file. I had not typed a certain keyword. In the end,
@@ -61,38 +59,35 @@ I realized that what I at first thought was a little problem that could be overl
 I continued coding without stopping to address it. The result was that when I decided to finally fix the bug, it was more difficult
 to find the error than if I would've stopped coding as soon as I had known something was wrong. It was like trying to find a needle
 in a haystack. Next time I'll respond more proactively at the realization of an error instead of ignoring it and letting the problem
-become bigger and harder to deal with.
+become bigger and harder to deal with.]
 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
-
-What is something I can do to make websites run faster?
+[What is something I can do to make websites run faster?
 
 Something that I always hear about is how people use programs to buy as many shoes as possible at retail price, and
 then they are able to sell them with a huge markup because of all the demand for the certain shoe.
 My question is, how can websites have the security necessary to prevent these people from using programs to buy all the products available?
 
-Using the javascript file of my project, is there a way to make the buttons of my website play multiple frequencies instead of just one?
+Using the javascript file of my project, is there a way to make the buttons of my website play multiple frequencies instead of just one?]
 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions,
 adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
-If I had a few more hours to work on the website, I would've tried to find every frequency of the major scale in music, and made enough buttons
+[If I had a few more hours to work on the website, I would've tried to find every frequency of the major scale in music, and made enough buttons
 so that each one could play a certain note from the scale. I then would've gone further by making each button play more frequencies at once,
 so that when they're pressed they could play a certain chord from the C major scale, not just a note. Lastly I would try to figure out how
-to add a timer that goes up to 30 seconds but resets to zero everytime the player presses the correct sequence of notes.
+to add a timer that goes up to 30 seconds but resets to zero everytime the player presses the correct sequence of notes.]
 
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/0c0215619b38411ca13872f6265a6dd9)
 
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Fernando Herrera]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
